@@ -59,7 +59,7 @@ Open the project directory and launch Jupyter Notebook to explore the dataset an
 
 
 ## Authors
-- Your Name - Initial work - [fabrizi0rigodanz0](https://github.com/fabrizi0rigodanz0)
+- Fabrizio Rigodanzo - [fabrizi0rigodanz0](https://github.com/fabrizi0rigodanz0)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
