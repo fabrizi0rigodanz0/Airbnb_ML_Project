@@ -4,7 +4,9 @@
 This project aims to develop a machine learning model capable of predicting Airbnb listing prices in New York City based on a variety of listing features. Our goal is to enable hosts to set competitive and fair prices for their properties by providing accurate price predictions.
 
 ## Dataset Description
-The dataset is a curated sample focusing on Airbnb listings in New York City. It encompasses a wide range of information, including host details, property characteristics, location data, and reviews.
+The dataset is a curated sample focusing on Airbnb listings in New York City. It encompasses a wide range of information, including host details, property characteristics, location data, and reviews. The dataset used in this project is taken from Kaggle:
+
+[Airbnb Open Data on Kaggle](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata/data)
 
 ### Features
 - **ID**: Unique identifier for each listing
@@ -49,3 +51,15 @@ These instructions will guide you on how to get the project up and running on yo
 Clone the GitHub repository to your local machine:
 - git clone https://github.com/fabrizi0rigodanz0/airbnb_ML_project.git
 
+Install the required Python packages:
+- pip install -r requirements.txt
+
+### Running the Project
+Open the project directory and launch Jupyter Notebook to explore the dataset and models.
+
+
+## Authors
+- Your Name - Initial work - [fabrizi0rigodanz0](https://github.com/fabrizi0rigodanz0)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
