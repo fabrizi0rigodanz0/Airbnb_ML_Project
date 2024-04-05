@@ -1,7 +1,10 @@
 # Airbnb Price Prediction Model
 
+## Introduction
+Airbnb Pricing Inc. embarked on a mission to enhance pricing strategies for Airbnb hosts in New York City by leveraging advanced machine learning techniques. This project, stemming from a comprehensive study, offers precise, data-driven pricing recommendations to optimize Airbnb listing prices.
+
 ## Project Overview
-This project aims to develop a machine learning model capable of predicting Airbnb listing prices in New York City based on a variety of listing features. Our goal is to enable hosts to set competitive and fair prices for their properties by providing accurate price predictions.
+Our aim is to empower Airbnb hosts to set competitive and equitable prices for their properties. Utilizing a dataset of over 100,000 unique Airbnb listings, we've developed a model that identifies key price influencers, enabling hosts to make informed pricing decisions based on a variety of listing features.
 
 ## Dataset Description
 The dataset is a curated sample focusing on Airbnb listings in New York City. It encompasses a wide range of information, including host details, property characteristics, location data, and reviews. The dataset used in this project is taken from Kaggle:
@@ -31,13 +34,11 @@ The dataset is a curated sample focusing on Airbnb listings in New York City. It
 4. Evaluate the model's performance using appropriate metrics and identify key features that influence listing prices.
 
 ## Methodology
-- **Data Cleaning**: Addressing missing values, standardizing column names, and converting appropriate data types.
-- **Feature Engineering**: Developing new features potentially significant for price prediction.
-- **Model Selection**: Experimenting with various regression models to find the most accurate predictor of price.
-- **Evaluation**: Using evaluation metrics such as RMSE and R-squared to gauge model performance.
+Our approach encompasses data preparation, exploratory analysis, and the application of linear and tree-based regression models, culminating in the selection of the Random Forest Regressor for its superior accuracy and generalizability.
 
 ## Results
-(Here, you will provide a summary of the model performance, including any interesting findings and insights derived from your project.)
+Identification of critical price influencers and variations across neighborhoods.
+The Random Forest Regressor emerged as the most effective model, balancing accuracy with computational efficiency.
 
 ## Getting Started
 These instructions will guide you on how to get the project up and running on your local machine for development and testing purposes.
@@ -57,9 +58,9 @@ Install the required Python packages:
 ### Running the Project
 Open the project directory and launch Jupyter Notebook to explore the dataset and models.
 
-
 ## Authors
 - Fabrizio Rigodanzo - [fabrizi0rigodanz0](https://github.com/fabrizi0rigodanz0)
+Credit to the project team, highlighting contributions from Robert Helmut Münchau, Julia Antonioli, Kuba Bialczyk, and Nicolò Mazzoleni. Special thanks to Prof. Nuno André da Silva for guidance.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
