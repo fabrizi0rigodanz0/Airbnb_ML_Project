@@ -58,9 +58,5 @@ Install the required Python packages:
 ### Running the Project
 Open the project directory and launch Jupyter Notebook to explore the dataset and models.
 
-## Authors
-- Fabrizio Rigodanzo - [fabrizi0rigodanz0](https://github.com/fabrizi0rigodanz0)
-Credit to the project team, highlighting contributions from Robert Helmut Münchau, Julia Antonioli, Kuba Bialczyk, and Nicolò Mazzoleni. Special thanks to Prof. Nuno André da Silva for guidance.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
