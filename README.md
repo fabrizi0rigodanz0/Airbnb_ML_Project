@@ -50,7 +50,7 @@ These instructions will guide you on how to get the project up and running on yo
 
 ### Installation
 Clone the GitHub repository to your local machine:
-- git clone https://github.com/fabrizi0rigodanz0/airbnb_ML_project.git
+- git clone https://github.com/fabrizi0rigodanz0/Airbnb_ML_Project.git
 
 Install the required Python packages:
 - pip install -r requirements.txt
